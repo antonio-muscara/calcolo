@@ -9,7 +9,7 @@ public class Calcolo {
 
     public static void main(String[] args) {
   
-            int b, h, area, perimetro;
+            int b, h;
             Scanner tastiera = new Scanner(System.in);
             
             System.out.print("Inserisci la base: ");
